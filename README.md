@@ -16,3 +16,14 @@ or this (if you change ```rgb2()``` to ```rgb3()``` in the original script) :
 
 Without ```--gradient FILE``` option, ```heatmapcp.py``` behave like Kyle's ```heatmap.py```.
 
+To create your own custom gradient :
+* create a 256x1 pixels image (with Gimp),
+* fill it with a funny gradient from left to right,
+* flatten the image (no alpha channel),
+* save in PNG or JPEG (or whatever PIL can read)
+* use with ```--gradient```,
+* enjoy
+
+TODO :
+* support gradients stacking in one image file (row = gradient number) and let the user specify gradient file and gradient number,
+* draw optional lines with ```--ytick```
