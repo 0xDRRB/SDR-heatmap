@@ -6,7 +6,7 @@ The new option ```--gradient``` let you specify a 256x1 image file filled with a
 
 ![heatmapgrad_cgradient](heatmapgrad_cgradient.jpg?raw=true)
 
-with this :
+from this :
 
 ![thegradient](thegradient.jpg?raw=true)
 
