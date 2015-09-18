@@ -1,6 +1,6 @@
 # SDR heatmap with custom gradient
 
-This is a standalone fork of [Kyle Keen heatmap.py](https://github.com/keenerd/rtl-sdr-misc/tree/master/heatmap)) with added fonctionality : customs gradients.
+This is a standalone fork of [Kyle Keen heatmap.py](https://github.com/keenerd/rtl-sdr-misc/tree/master/heatmap) with added fonctionality : customs gradients.
 
 The new option ```--gradient``` let you specify a 256x1 image file filled with a custom gradient (left to right) and get this :
 
