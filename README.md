@@ -18,7 +18,7 @@ or this (if you change ```rgb2()``` to ```rgb3()``` in the original script) :
 
 ![heatmapgrad_rgb3](heatmapgrad_rgb3.jpg?raw=true)
 
-Without ```--gradient FILE``` option, ```heatmapcp.py``` behave like Kyle's ```heatmap.py```.
+Without ```--gradient FILE``` option, ```heatmapcg.py``` behave like Kyle's ```heatmap.py```.
 
 To create your own custom gradient :
 * create a 256x1 pixels image (with Gimp),
